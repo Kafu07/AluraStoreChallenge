@@ -81,7 +81,6 @@ alura-store-analysis
 │
 ├── AluraStoreLatam.ipynb
 ├── README.md
-└── datos/
 ```
 
 ---
